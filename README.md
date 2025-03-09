@@ -24,5 +24,6 @@ The `vote` web app is then available on port 31000 on each host of the cluster, 
 ![2](https://github.com/dengineer2104/voting-app/blob/main/ACR.png)
 ![3](https://github.com/dengineer2104/voting-app/blob/main/AllPipleines.png)
 ![4](https://github.com/dengineer2104/voting-app/blob/main/Pipeline.png)
-![5](https://github.com/dengineer2104/voting-app/blob/main/ArgoSettings.png)
-![6](https://github.com/dengineer2104/voting-app/blob/main/Argo.png)
+![4](https://github.com/dengineer2104/voting-app/blob/main/SVC.jpg)
+![6](https://github.com/dengineer2104/voting-app/blob/main/ArgoSettings.png)
+![7](https://github.com/dengineer2104/voting-app/blob/main/Argo.png)
